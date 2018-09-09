@@ -1,64 +1,35 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: ""
+url: "http://mandygrg.github.io"
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Beautician Mandy (BM)
+email: mandykanchi@gmail.com
+description: "Beauty Saloon at your Home"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Mandy
   pic: 1
-  position: Lead Designer
+  position: Independent Beautician
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/mandira.ghimire.967
+    - title: instagram
+      url: https://instagram.com/offlinequeenii/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/mandira.ghimire.967
+  - title: instagram
+    url: https://instagram.com/offlinequeenii/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Sr No 147, Ghawate Nagar
+  - line: Mundha-Manjari Road, Manjari
+  - line: Pune, Maharashtra, India (Pin No 412307)
 
 # Build settings
 markdown: kramdown

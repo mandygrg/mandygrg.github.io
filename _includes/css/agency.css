@@ -18,6 +18,17 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.enquiry-btn {
+    margin-top: 10px;
+    background-color: blue;
+    border-color: transparent;
+    text-transform: uppercase;
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+    font-size: 14px;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -267,7 +278,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: yellow;
     background-attachment: scroll;
     background-image: url(img/header-bg.jpg);
     background-position: center center;
@@ -344,7 +355,7 @@ section h3.section-subheading {
 }
 
 @media(min-width:768px) {
-    section {
+        section {
         padding: 150px 0;
     }
 }
@@ -764,6 +775,10 @@ ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
     background-color: #{{ site.data.template.color.primary }};
+}
+
+.team-social-btn {
+    text-align: center;
 }
 
 .btn:focus,
